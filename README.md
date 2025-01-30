@@ -14,9 +14,7 @@ I'm a software engineer passionate about solving complex problems through techno
 
 - 🌱 **Currently Learning:** Deepening my skills in cloud technologies, especially AWS and Kubernetes.
 - 💬 **Ask me about:** How I stay productive as a developer and my journey in tech.
-- 📄 **Resume:** [Click here to view my Resume](https://github.com/divyadarshi11/divyadarshi11/blob/main/Divya_Darshi_Resume.pdf)
-
-
+- 📄 **Resume:** [Click here to view my Resume](https://github.com/divyadarshi11/divyadarshi11/raw/main/Divya_Darshi_Resume .pdf)
 
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyadarshi11&show_icons=true&locale=en" alt="divyadarshi11" /></p> -->
