@@ -48,13 +48,14 @@ I'm a software engineer passionate about solving complex problems through techno
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white)
+![Microfrontend](https://img.shields.io/badge/Microfrontend-00B0B9?style=flat&logo=react&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-00B0B9?style=flat&logo=docker&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-2C6BB2?style=flat&logo=microsoft-office&logoColor=white)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyadarshi11&" alt="divyadarshi11" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyadarshi11&" alt="divyadarshi11" /></p> -->
 
 ## 🤝 Connect with Me:
 
