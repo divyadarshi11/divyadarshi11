@@ -55,7 +55,7 @@ I'm a software engineer passionate about solving complex problems through techno
 ![Microservices](https://img.shields.io/badge/Microservices-00B0B9?style=flat&logo=docker&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-2C6BB2?style=flat&logo=microsoft-office&logoColor=white)
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyadarshi11&" alt="divyadarshi11" /></p> -->
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyadarshi11&" alt="divyadarshi11" /></p> 
 
 ## 🤝 Connect with Me:
 
